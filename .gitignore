@@ -1,0 +1,19 @@
+# Ignore cache files
+rasa/cache/
+
+# Ignore training files
+models/
+
+# Ignore configuration and credentials files
+*.db
+*.sqlite
+
+# Ignore logs
+logs/
+
+# Ignore temporary files
+*.log
+*.bak
+*.swp
+
+app.py
